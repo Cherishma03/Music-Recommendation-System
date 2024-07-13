@@ -7,10 +7,10 @@ This project presents a personalized music recommendation system based on matrix
 ## Algorithms Used
 - **Collaborative Filtering:** Utilizes user-item interactions to predict user preferences. Techniques include
    - Matrix Factorization (e.g., SVD, NMF)
-- User-based and Item-based filtering
+   - User-based and Item-based filtering
 - **Content-Based Filtering:** Recommends songs based on the similarity of song attributes using:
-TF-IDF Vectorization
-Cosine Similarity
+   - TF-IDF Vectorization
+   - Cosine Similarity
 - **Lyrics-Based Recommendation:** Uses Natural Language Toolkit (NLTK) for text preprocessing, vectorization, and similarity computation to recommend songs based on lyrical content.
 ## Datasets
 - **Million Song Dataset (MSD):** Contains metadata and audio features for a million songs, used for collaborative filtering.
