@@ -12,6 +12,6 @@ User-based and Item-based filtering
 TF-IDF Vectorization
 Cosine Similarity
 - **Lyrics-Based Recommendation:** Uses Natural Language Toolkit (NLTK) for text preprocessing, vectorization, and similarity computation to recommend songs based on lyrical content.
-##Datasets
+## Datasets
 - **Million Song Dataset (MSD):** Contains metadata and audio features for a million songs, used for collaborative filtering.
 - **songdata.csv:** Contains song titles, artist names, release years, and lyrics, used for content-based filtering and lyrics-based recommendation.
